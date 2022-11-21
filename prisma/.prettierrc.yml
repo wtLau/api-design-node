@@ -1,0 +1,10 @@
+semi: false
+singleQuote: true
+trailingComma: es5
+tabWidth: 4
+printWidth: 90
+quoteProps: preserve
+overrides:
+    - files: '*.json'
+      options:
+          tabWidth: 2
