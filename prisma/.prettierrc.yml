@@ -1,10 +1,23 @@
+---
 semi: false
 singleQuote: true
 trailingComma: es5
-tabWidth: 4
 printWidth: 90
 quoteProps: preserve
 overrides:
     - files: '*.json'
       options:
           tabWidth: 2
+arrowParens: always
+bracketSameLine: false
+bracketSpacing: false
+embeddedLanguageFormatting: auto
+htmlWhitespaceSensitivity: css
+insertPragma: false
+jsxSingleQuote: true
+proseWrap: always
+requirePragma: false
+tabWidth: 2
+useTabs: true
+vueIndentScriptAndStyle: false
+
